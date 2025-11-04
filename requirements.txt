@@ -1,0 +1,6 @@
+requests
+docx2pdf
+reportlab
+python-docx
+genai
+pandoc
